@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cou-brd-load-data-client-side-solution",
+    "id": "a4bf3cdb-16a6-40b8-851b-3f0d5e3abebd",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/cou-brd-load-data.sppkg"
+  }
+}
